@@ -1,0 +1,2 @@
+C:\GitHub\hackathon17\hackathon17\obj\Debug\hackathon17.njsprojResolveAssemblyReference.cache
+C:\GitHub\hackathon17\hackathon17\bin\Microsoft.NodejsTools.WebRole.dll

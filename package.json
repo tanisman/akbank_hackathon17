@@ -1,0 +1,22 @@
+{
+  "name": "hackathon17",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "description": "hackathon17",
+  "author": {
+    "name": "Shine"
+  },
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "debug": "^2.2.0",
+    "ethereumjs-tx": "^1.3.3",
+    "express": "^4.14.0",
+    "keythereum": "^1.0.2",
+    "pug": "^2.0.0-beta6",
+    "web3": "^0.20.1"
+  }
+}
